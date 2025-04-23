@@ -107,10 +107,10 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Phlebotomy technician',
+      body: ,
+      year: 'June 2016',
+      link: ,
     },
   ],
   educations: [
