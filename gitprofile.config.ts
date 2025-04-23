@@ -107,10 +107,9 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Phlebotomy technician',
-      body: 
+      name: 'CPT I',
+      body: 'Certified Phlebotomy Technician I (CPT I)'
       year: 'June 2016',
-      link: 
     },
   ],
   educations: [
