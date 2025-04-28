@@ -91,19 +91,20 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'The Paver Company',
+      position: 'Customer Service Lead',
+      from: 'July 2010',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Dignity Health',
+      position: 'Patient Access representative',
+      from: 'October 2018',
+      to: 'May 2022',
+      companyLink: '',
     },
+   
   ],
   certifications: [
     {
