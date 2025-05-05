@@ -133,7 +133,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcements',
       authors: 'Sofia Amaral, Luis Garcia, Adrianna Gonzalez, Samantha Prince, Komal Takhar ',
-      link: 'https://example.com',
+      link: 'https://github.com/samprince123/samprince123.github.io/blob/main/MRA%20paper.pdf',
       description:
         'We report the whole genome sequence of an antibiotic resistance strain of Atlantibacter subterranea that was isolated from Uranium-contaminated sediment in Tennessee. The whole genome sequence of this strain was 4,717,064 bp in length, contained 34 contigs and 29 scaffolds, and had a GC content of 55.17%.',
     },
@@ -148,7 +148,7 @@ const CONFIG = {
     },
   ],
   // Display articles from your medium or dev account. (Optional)
-  blog: {
+  raw: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
