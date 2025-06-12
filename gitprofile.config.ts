@@ -40,14 +40,6 @@ const CONFIG = {
             '',
           link: '',
         },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
       ],
     },
   },
@@ -136,15 +128,6 @@ const CONFIG = {
       link: 'https://github.com/samprince123/samprince123.github.io/blob/main/MRA%20paper.pdf',
       description:
         'We report the whole genome sequence of an antibiotic resistance strain of Atlantibacter subterranea that was isolated from Uranium-contaminated sediment in Tennessee. The whole genome sequence of this strain was 4,717,064 bp in length, contained 34 contigs and 29 scaffolds, and had a GC content of 55.17%.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
